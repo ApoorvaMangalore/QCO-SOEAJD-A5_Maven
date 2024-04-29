@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="ST.To_launch_Apple_Test"/>
+      <class name="ST.To_launch_Poco_Test"/>
+      <class name="ST.To_launch_Mi_Test"/>
+      <class name="ST.To_launch_Motorola_Test"/>
+      <class name="ST.To_launch_Samsung_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
