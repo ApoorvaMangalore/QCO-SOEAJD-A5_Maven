@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class Run_Test {
 
-	/*@Test
+	@Test
 	public void run() throws InterruptedException {
 
 		String url = System.getProperty("url");
@@ -19,7 +19,7 @@ public class Run_Test {
 		Thread.sleep(3000);
 		driver.get(url);
 		Thread.sleep(3000);
-		driver.quit();*/
+		driver.quit();
 
 	}
-
+}
