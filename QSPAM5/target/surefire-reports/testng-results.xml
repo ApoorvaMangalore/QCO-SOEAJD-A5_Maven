@@ -5,12 +5,12 @@
       <![CDATA[Hello browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-05-27T17:44:25 IST" name="Surefire suite" finished-at="2024-05-27T17:44:53 IST" duration-ms="27300">
+  <suite started-at="2024-05-27T18:36:43 IST" name="Surefire suite" finished-at="2024-05-27T18:36:55 IST" duration-ms="12057">
     <groups>
     </groups>
-    <test started-at="2024-05-27T17:44:25 IST" name="Surefire test" finished-at="2024-05-27T17:44:53 IST" duration-ms="27300">
+    <test started-at="2024-05-27T18:36:43 IST" name="Surefire test" finished-at="2024-05-27T18:36:55 IST" duration-ms="12057">
       <class name="IT.Run_Test">
-        <test-method signature="run()[pri:0, instance:IT.Run_Test@7d3a22a9]" started-at="2024-05-27T17:44:25 IST" name="run" finished-at="2024-05-27T17:44:53 IST" duration-ms="27249" status="PASS">
+        <test-method signature="run()[pri:0, instance:IT.Run_Test@7d3a22a9]" started-at="2024-05-27T18:36:43 IST" name="run" finished-at="2024-05-27T18:36:55 IST" duration-ms="12011" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello browser]]>

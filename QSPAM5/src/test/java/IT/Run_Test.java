@@ -15,7 +15,7 @@ public class Run_Test {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		Reporter.log("Hello browser", true);
-
+		System.out.println("Updated ");
 		Thread.sleep(3000);
 		driver.get(url);
 		Thread.sleep(3000);
