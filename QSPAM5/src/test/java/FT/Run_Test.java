@@ -1,4 +1,4 @@
-package IT;
+package FT;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -14,9 +14,9 @@ public class Run_Test {
 		System.out.println(url);
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		Reporter.log("Hello browser RT", true);
-		System.out.println("Updated RT");
-		System.out.println("Update 2 RT");
+		Reporter.log("Hello browser FT", true);
+		System.out.println("Updated FT ");
+		System.out.println("Update2 FT");
 		Thread.sleep(3000);
 		driver.get(url);
 		Thread.sleep(3000);
