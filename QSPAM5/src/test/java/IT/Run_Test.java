@@ -16,6 +16,7 @@ public class Run_Test {
 		driver.manage().window().maximize();
 		Reporter.log("Hello browser", true);
 		System.out.println("Updated ");
+		System.out.println("Update 2");
 		Thread.sleep(3000);
 		driver.get(url);
 		Thread.sleep(3000);
